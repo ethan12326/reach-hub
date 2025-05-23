@@ -163,6 +163,6 @@ npm start
 ## Show your support
 Hit the ⭐ if you liked this Project!
 
-**Contact** `pranjal.barn@gmail.com` for support
+**Contact** `ethanadams015@gmail.com` for support
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Cute cat: pranjal-barnwal | Pranjal Kumar, Hazaribag Jharkhand" width="80">
